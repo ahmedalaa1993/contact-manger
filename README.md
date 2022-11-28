@@ -14,6 +14,11 @@ npm install
 quasar dev
 ```
 
+## to start json server 
+```bash
+servDB
+```
+
 
 ### Lint the files
 ```bash
